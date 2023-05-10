@@ -7,7 +7,9 @@ setup(
     packages=find_packages(),
     install_requires=[
         'numpy',
-        'matplotlib'
+        'matplotlib',
+        'pandas',
+        'seaborn'
     ],
     entry_points={
         'console_scripts': [
