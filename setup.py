@@ -17,9 +17,9 @@ setup(
     author='Oscar Palomino',
     author_email='ing.oscarp1@gmail.com',
     classifiers=[
-        'Development Status :: 1 - Alpha',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'License :: GPL-3.0',
+        'License :: OSI Approved :: GPL-3.0',
         'Programming Language :: Python :: 3'
     ]
 )
