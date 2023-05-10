@@ -19,7 +19,7 @@ setup(
     classifiers=[
         'Development Status :: 1 - Planning',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GNU Affero General Public License v3',
+        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
         'Programming Language :: Python :: 3'
     ]
 )
