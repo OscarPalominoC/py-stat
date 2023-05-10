@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='py-stat',
+    name='mathstatpy',
     version='0.1.0',
     description='Librería de Python para análisis estadístico.',
     packages=find_packages(),
