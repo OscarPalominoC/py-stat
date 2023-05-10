@@ -1,0 +1,5 @@
+    Medidas de tendencia central: media, mediana y moda.
+    Medidas de dispersión: rango, varianza, desviación estándar.
+    Gráficos estadísticos: histogramas, diagramas de caja, gráficos de dispersión.
+    Coeficiente de correlación: coeficiente de correlación de Pearson, coeficiente de correlación de Spearman.
+    Distribuciones estadísticas: distribución normal, distribución binomial, distribución de Poisson.

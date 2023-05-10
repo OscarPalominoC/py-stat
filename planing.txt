@@ -1,0 +1,11 @@
+    Nivel introductorio:
+        Estadística descriptiva: conjunto de técnicas que se utilizan para resumir y describir características importantes de un conjunto de datos, como la media, la mediana, la desviación estándar, etc.
+        Inferencia estadística: proceso de obtener información sobre una población a partir de una muestra, mediante el uso de técnicas como la estimación de intervalos de confianza y las pruebas de hipótesis.
+    Nivel intermedio:
+        Modelos de regresión: herramientas que se utilizan para examinar la relación entre una variable dependiente y una o más variables independientes, y para predecir los valores de la variable dependiente a partir de los valores de las variables independientes.
+        Análisis de varianza (ANOVA): técnica que se utiliza para comparar las medias de tres o más grupos y determinar si existen diferencias significativas entre ellos.
+        Análisis de componentes principales (PCA): técnica que se utiliza para reducir la dimensionalidad de un conjunto de datos, identificando las variables que contribuyen en mayor medida a la variabilidad de los datos.
+    Nivel avanzado:
+        Modelos de series de tiempo: herramientas que se utilizan para modelar y predecir la evolución de una variable a lo largo del tiempo, mediante el análisis de las tendencias, los ciclos y los patrones estacionales presentes en los datos.
+        Análisis de datos de alta dimensionalidad: conjunto de técnicas que se utilizan para analizar conjuntos de datos que contienen un gran número de variables, como el análisis de componentes principales, la regresión Ridge y la regresión LASSO.
+        Aprendizaje automático: conjunto de técnicas que se utilizan para enseñar a una máquina a identificar patrones en los datos y tomar decisiones basadas en ellos, como la clasificación y la regresión, mediante el uso de algoritmos como el K-means, el SVM y las redes neuronales.
